@@ -1,0 +1,14 @@
+# Discord AI Bot Requirements
+# Install with: pip install -r requirements.txt
+
+requests==2.31.0            # HTTP client for Discord and AI API calls
+python-dotenv==1.0.0        # Environment variable loader from .env file
+
+# Python Standard Library imports used in ai.py:
+# - datetime: For timestamp formatting
+# - time: For delays and timing
+# - json: For data parsing and saving
+# - os: For file system and environment access
+# - re: For text processing and cleaning
+
+# Python version requirement: >= 3.7

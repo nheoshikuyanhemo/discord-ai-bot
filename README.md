@@ -5,17 +5,25 @@ Advanced Discord bot with intelligent cooldown management and AI-powered respons
 the risk of spamming is personal responsibility  
 ____
 / for Channel ID you have to change it in the ai.py bot script /
-
+____
 ## Quick Start
-1. Install: 
+1. environment
+```
+ython3 -m venv myenv
+```
+```
+source myenv/bin/activate
+```
+2. Install:
 ```
 pip install -r requirements.txt
 ```
-2. Configure: Copy .env.example to .env and add your tokens Ai and Discord Token cookie
+3. Configure: Copy .env.example to .env and add your tokens Ai and Discord Token cookie
 ```
 cp .env.example .env
 ```
-3. Run: 
+
+4. Run: 
 ```
 python ai.py
 ```
@@ -25,5 +33,5 @@ python ai.py
 - Adaptive rate limiting
 - AI-powered natural responses
 - Priority reply system
-
+___
 See full documentation in the file.

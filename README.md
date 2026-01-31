@@ -38,7 +38,7 @@ See full documentation in the file.
 
 
 _____
-This AI bot uses an Ai key from Groq and connects to Aiassist project from Interchained  
+This AI bot uses an API key from Groq and connects to API key Aiassist project from Interchained  
 ____
 - Interchained https://interchained.org/
 - Aiassist https://aiassist.net/dashboard

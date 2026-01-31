@@ -33,5 +33,13 @@ python ai.py
 - Adaptive rate limiting
 - AI-powered natural responses
 - Priority reply system
-___
+
 See full documentation in the file.
+
+
+_____
+This AI bot uses an Ai key from Groq and connects to Aiassist project from Interchained  
+____
+Interchained https://interchained.org/
+Aiassist https://aiassist.net/dashboard
+Groq https://console.groq.com/

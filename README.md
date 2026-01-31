@@ -9,7 +9,7 @@ ____
 ## Quick Start
 1. environment
 ```
-ython3 -m venv myenv
+python3 -m venv myenv
 ```
 ```
 source myenv/bin/activate

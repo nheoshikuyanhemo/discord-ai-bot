@@ -1,6 +1,9 @@
 # Discord AI Auto-Reply Bot
 
 Advanced Discord bot with intelligent cooldown management and AI-powered responses.
+### important  
+personal risk
+/ for your Channel ID you have to change it in the ai.py bot script /
 
 ## Quick Start
 1. Install: 
